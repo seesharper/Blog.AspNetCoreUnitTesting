@@ -208,7 +208,7 @@ public async Task ShouldGetMockValue()
 
 
 
-Want to comment? File an issue here :)
+Want to comment? File an issue [here](https://github.com/seesharper/Blog.AspNetCoreUnitTesting/issues) :)
 
 
 
